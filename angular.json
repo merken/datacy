@@ -16,7 +16,7 @@
             "customWebpackConfig": {
               "path": "./webpack.extra.js",
               "mergeStrategies": {
-                "externals": "prepend"
+                "externals": "append"
               }
             },
             "outputPath": "dist/datacy",
