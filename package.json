@@ -9,6 +9,7 @@
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e",
+    "replace-webpack": "node replace-webpack.js",
     "cypress": "cypress open"
   },
   "private": true,
